@@ -2,11 +2,12 @@
 
 int main(){
 
-int a,b,c;
-scanf("%d %d %d",&a,&b,&c);
+int a,b,c,d;
+scanf("%d %d %d %d",&a,&b,&c,&d);
 
-int sum=a+b+c;
+int sum=a+b+c+d;
 printf("%d",sum);
     return 0;
 
 }
+
